@@ -1,0 +1,2 @@
+# pinoycoin
+cryptocurrency for philippines
